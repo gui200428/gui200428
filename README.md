@@ -44,6 +44,7 @@ Aprendendo: React ⚛️.
 </div>
 <br>
 <h2 align="center">🐍 Minhas contribuições</h2>
+
 ![](https://raw.githubusercontent.com/gui200428/gui200428/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/gui200428/gui200428/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br>
