@@ -61,6 +61,6 @@ Aprendendo: React ⚛️.
 </h3>
 <br><br>
 <div>
-<img src="https://visitcount.itsvg.in/api?id=gui200428&icon=9&color=12">
+  <img src="https://visitcount.itsvg.in/api?id=gui200428&label=Profile%20Views&color=3&pretty=true" />
 </div>
 <br>
