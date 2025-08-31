@@ -7,14 +7,12 @@
 
 ```
 Nome: Guilherme Augusto 👨‍💻.
-Idade: 20 anos 🎂.
+Idade: 21 anos 🎂.
 Curso: Engenharia da Computação 🖥️.
 Pais: Brasil.
 Idiomas: Português e Inglês 🌐.
 Hobbies: Desenvolver sistemas Web, programar em python e Arduino.
-Linguagens: Bash, Python, PHP, JavaScript, C, MySql.
-Linguagem favorita: Python 🐍.
-Aprendendo: React ⚛️.
+Linguagens: Bash, Python, JavaScript, C, MySql.
 
 ```
 
@@ -23,9 +21,10 @@ Aprendendo: React ⚛️.
 <div>
 <h2 align="center">📖 Conhecimento</h2>
 </div>
-<div align = "center">
-<p align = "justify">Minha linguagem favorita é o Python. Gosto de criar scripts com as mais diversas funções. Tenho experiência em desenvolvimento Web, inclusive hospedagem de sites, abrangendo a plataforma Azure e Firebase. Desenvolvo aplicações web completas utilizando PHP, MySql, HTML, CSS e JS. Atualmente estou aprendendo React! Busco sempre aprender coisas novas todos os dias e me empenhar ao máximo em todos os meus projetos. Fique à vontade para verificar meus repositórios e compartilhar sua opinião!<br></p>
-
+<div align="center">
+<p align="justify">
+Meu foco de desenvolvimento atualmente está em projetos que integram software e hardware. Tenho experiência no processo completo: desde a <strong>modelagem 3D</strong> de componentes e programação de microcontroladores como o <strong>Arduino</strong>, até a criação de <strong>interfaces web</strong> para o controle e monitoramento dos sistemas. Busco aplicar diferentes tecnologias para construir soluções funcionais e eficientes. Sinta-se à vontade para explorar meus repositórios.
+</p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,linux,git,github,azure,mysql,firebase,nodejs,py,c,php,html,css,js,bootstrap,tailwind,figma,arduino,&perline=9"alt="My Skills"/> 
@@ -55,12 +54,3 @@ Aprendendo: React ⚛️.
 
 <br/>
 <hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=REM&size=25&pause=1000&color=38bcad&center=true&vCenter=true&width=500&height=70&lines=Obrigado+por+ler!+%E2%9C%8C%EF%B8%8F;Entre+em+contato!+%F0%9F%98%81;Estou+sempre+dispon%C3%ADvel!;Bora+fazer+uma+parceria%3F+%F0%9F%A4%9D">
-</h3>
-<br><br>
-<div>
-  <img src="https://visitcount.itsvg.in/api?id=gui200428&label=Profile%20Views&color=3&pretty=true" />
-</div>
-<br>
