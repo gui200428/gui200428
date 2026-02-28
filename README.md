@@ -7,7 +7,7 @@
 
 ```
 Nome: Guilherme Augusto 👨‍💻.
-Idade: 21 anos 🎂.
+Idade: 22 anos 🎂.
 Curso: Engenharia da Computação 🖥️.
 Pais: Brasil.
 Idiomas: Português e Inglês 🌐.
