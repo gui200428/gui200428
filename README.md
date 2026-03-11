@@ -46,11 +46,5 @@ Meu foco de desenvolvimento atualmente está em projetos que integram software e
 
 ![](https://raw.githubusercontent.com/gui200428/gui200428/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/gui200428/gui200428/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<br>
-
-<h2 align="center"> 🌐 Contato</h2>
-<a href="https://discord.gg/gui200428"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-<a href="https://instagram.com/gui200428"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-
 <br/>
 <hr/>
